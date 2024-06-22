@@ -8,7 +8,7 @@
   }
 
   .navbar-toggler{
-    margin-left: 70px;
+    margin-left: 80px;
     font-size: 25px;
   }
 
@@ -83,5 +83,9 @@
   .container-footer{
     flex-direction: column;
     gap: 20px;
+  }
+
+  .rodapé{
+    text-align: center;
   }
 }
