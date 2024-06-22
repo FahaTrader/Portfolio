@@ -43,6 +43,7 @@
   .background-img{
     animation: none;
     width: 330px;
+    margin-top: 25px;
   }
 
   .title{
