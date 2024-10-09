@@ -16,7 +16,7 @@
     text-align: center;
   }
 
-  .animated-button{
+  .button-nav{
     display: none;
   }
 
@@ -80,6 +80,11 @@
     to{
       background-position: 100% 100%;
     }
+  }
+
+  .overlay{
+    opacity: 1;
+    font-size: 18px;
   }
 
   .container-footer{
